@@ -1,0 +1,2 @@
+# Hotel-finder
+Frontend template 
